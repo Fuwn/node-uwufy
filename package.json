@@ -1,0 +1,31 @@
+{
+  "name": "uwufy",
+  "version": "1.0.0",
+  "description": "An NPM package which allows you to uwufy a given string.",
+  "main": "./dist/app.js",
+  "files": [
+    "dist/",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node ./test/test.js",
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/8cy/npm-uwufy"
+  },
+  "keywords": [
+    "meme",
+    "javascript",
+    "js",
+    "uwu"
+  ],
+  "author": "Sin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/8cy/npm-uwufy/issues"
+  },
+  "homepage": "https://github.com/8cy/npm-uwufy#readme"
+}
