@@ -1,6 +1,6 @@
 # uwufy
 [![npm](https://img.shields.io/npm/v/uwufy.svg)](https://www.npmjs.com/package/uwufy)
-[![license](https://img.shields.io/badge/license-MIT_License_with_anime_exception-green.svg)](https://github.com/8cy/npm-uwufy/blob/master/LICENSE)
+[![license](https://img.shields.io/badge/license-MIT_License_with_anime_exception-green.svg)](https://github.com/8cy/npm-uwufy/blob/master/LICENSEhttps://github.com/8cy/node-uwufy/blob/master/LICENSE)
 
 [![npmbadge](https://nodei.co/npm/uwufy.png)](https://nodei.co/npm/uwufy/)
 
