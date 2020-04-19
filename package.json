@@ -1,6 +1,6 @@
 {
   "name": "uwufy",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An NPM package which allows you to uwufy a given string.",
   "main": "./dist/app.js",
   "files": [
