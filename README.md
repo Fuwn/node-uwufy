@@ -17,12 +17,12 @@ $ npm install uwufy
 ```js
 const uwufy = require('uwufy');
 
-console.log(uwufy('IF YOU SEE THIS THEN THE UWUFICATION WAS SUCCESSFULL'));
+console.log(uwufy('IF YOU SEE THIS THEN THE UWUFICATION WAS SUCCESSFULL!!!'));
 ```
 
 # Output
 ```sh
-$ IF YOU SEE THIS THEN THE UWUFICATION WAS SUCCESSFUWW
+$ I-IF YOU SEE THIS THEN THE UWUFICATION WAS SUCCESSFUWW >w<
 ```
 
 ## Links
