@@ -27,5 +27,6 @@ $ I-IF YOU SEE THIS THEN THE UWUFICATION WAS SUCCESSFUWW >w<
 
 ## Links
 
-*   [Website](https://cyne.cf)
+*   [Website](https://kyzer.co)
 *   [NPM](https://npmjs.com/uwufy)
+*   [GitHub](https://github/com/8cy/node-uwufy)
