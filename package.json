@@ -1,7 +1,7 @@
 {
   "name": "uwufy",
-  "version": "1.0.6",
-  "description": "An NPM package which allows you to uwufy a given string.",
+  "version": "1.0.7",
+  "description": "An NPM/ Deno package which allows you to uwufy a given string.",
   "main": "./dist/app.js",
   "types": "./dist/app.d.ts",
   "files": [
@@ -15,18 +15,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/8cy/node-uwufy"
+    "url": "git://github.com/fuwn/node-uwufy"
   },
   "keywords": [
     "meme",
     "javascript",
     "js",
-    "uwu"
+    "uwu",
+    "deno"
   ],
-  "author": "Sin",
+  "author": "Fuwn",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/8cy/node-uwufy/issues"
+    "url": "https://github.com/fuwn/node-uwufy/issues"
   },
-  "homepage": "https://github.com/8cy/node-uwufy#readme"
+  "homepage": "https://github.com/fuwn/node-uwufy#readme"
 }

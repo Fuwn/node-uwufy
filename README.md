@@ -29,4 +29,4 @@ $ I-IF YOU SEE THIS THEN THE UWUFICATION WAS SUCCESSFUWW >w<
 
 *   [Website](https://fuwn.me)
 *   [NPM](https://npmjs.com/uwufy)
-*   [GitHub](https://github/com/fuwn/node-uwufy)
+*   [GitHub](https://github.com/fuwn/node-uwufy)
